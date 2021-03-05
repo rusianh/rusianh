@@ -33,9 +33,9 @@ When I'm not busy with the above I enjoy doing crosswords, taking and editing ph
 
 
 ### Some Numbers: 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SophieMBerger&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/rusianh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rusianh&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophieMBerger&layout=compact&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/rusianh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusianh&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
