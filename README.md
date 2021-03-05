@@ -10,10 +10,10 @@ In terms of tech I am really interested in Software engineering (both front-end 
 🌐 My [PORTFOLIO](https://rusianh.github.io/) -->
 
 ### 👀 See what I'm up to on:
-[![](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sophiemb/)](https://www.linkedin.com/in/sophiemb/)
-[![](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sophiemberger/)](https://www.instagram.com/sophiemberger/)
-[![](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://youtube.com/c/SophieBergerCreates)](https://youtube.com/c/SophieBergerCreates)
-[![](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/bergermsophie)](https://twitter.com/bergermsophie)
+[![](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sophiemb/)](https://www.linkedin.com/in/rusianh/)
+[![](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sophiemberger/)](https://www.instagram.com/rememberth3name/)
+[![](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://youtube.com/c/SophieBergerCreates)](https://youtube.com/c/vietanhvu.com)
+[![](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/bergermsophie)](https://twitter.com/rusianhh)
 
 ### 👾 Tech things:
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white)
