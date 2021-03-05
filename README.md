@@ -47,4 +47,4 @@ In terms of tech I am really interested in Software engineering (both front-end 
 </hr>
 
 ###
-<img src="https://github.com/rusianh/rusianh/blob/main/rusianh.svg"/>
+<img src="https://github.com/rusianh/rusianh/blob/main/rusianh1.svg"/>
