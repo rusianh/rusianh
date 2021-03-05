@@ -28,6 +28,9 @@ In terms of tech I am really interested in Software engineering (both front-end 
 ![](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)
 ![](https://img.shields.io/badge/Tensorflow-orange?style=flat-square&logo=Tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/Numpy-informational?style=flat-square&logo=Numpy&logoColor=white)
+
+<img src="https://github.com/rusianh/rusianh/blob/main/rusianh.svg"/>
+
 ![](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)
 ![](https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white)
 
