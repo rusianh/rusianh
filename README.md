@@ -41,4 +41,5 @@ In terms of tech I am really interested in Software engineering (both front-end 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusianh&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
 <br>
+#
 <img src="https://github.com/rusianh/rusianh/blob/main/rusianh.svg"/>
