@@ -38,10 +38,9 @@ In terms of tech I am really interested in Software engineering (both front-end 
 
 
 ### Some Numbers: 
-<!--<a href="https://github.com/rusianh">
+<a href="https://github.com/rusianh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rusianh&show_icons=true&theme=tokyonight" />
 </a>
-
 <a href="https://github.com/rusianh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusianh&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
