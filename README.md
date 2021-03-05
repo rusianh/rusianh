@@ -8,7 +8,7 @@ In terms of tech I am really interested in Software engineering (both front-end 
 
 <!--When I'm not busy with the above I enjoy doing crosswords, taking and editing photos or working on my [@YouTube](https://youtube.com/c/SophieBergerCreates) channel.
 
-🌐 My [PORTFOLIO](https://rusianh.github.io/)
+🌐 My [PORTFOLIO](https://rusianh.github.io/)-->
 
 ### 👀 See what I'm up to on:
 [![](https://img.shields.io/badge/facebook-informational?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/sophiemb/)](https://www.facebook.com/crisvuprogramming/)
