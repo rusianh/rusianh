@@ -44,6 +44,15 @@ In terms of tech I am really interested in Software engineering (both front-end 
 <a href="https://github.com/rusianh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusianh&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rusianh&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rusianh&repo=rusianh.github.io&theme=material-palenight" />
+</a>
+
 <br>
 </hr>
 
