@@ -4,9 +4,9 @@ Hey, I'm Cris Vu a web development engineer [@crisvu](https://www.vietanhvu.com/
 
 In terms of tech I am really interested in Software engineering (both front-end & back-end) as well as ML and any way they can help others better perform their tasks.
 
-When I'm not busy with the above I enjoy doing crosswords, taking and editing photos or working on my [@YouTube](https://youtube.com/c/SophieBergerCreates) channel.
+<!--When I'm not busy with the above I enjoy doing crosswords, taking and editing photos or working on my [@YouTube](https://youtube.com/c/SophieBergerCreates) channel.
 
-🌐 My [PORTFOLIO](https://sophiemberger.github.io/)
+🌐 My [PORTFOLIO](https://rusianh.github.io/) -->
 
 ### 👀 See what I'm up to on:
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sophiemb/)](https://www.linkedin.com/in/sophiemb/)
