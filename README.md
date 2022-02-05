@@ -50,6 +50,6 @@ In terms of tech I am really interested in Software engineering (both front-end 
 
 ###
 
-![](https://komarev.com/ghpvc/?username=your-github-rusianh)
+![](https://komarev.com/ghpvc/?username=your-github-rusianh&color=blueviolet)
 
 <img src="https://github.com/rusianh/rusianh/blob/main/rusianh1.svg"/>
