@@ -4,9 +4,7 @@ Hey, I'm Cris Vu a web development engineer [@crisvu](https://www.vietanhvu.com)
 
 In terms of tech I am really interested in Software engineering (both front-end & back-end) as well as ML and any way they can help others better perform their tasks.                                
 <img style="text-align: center;" src="https://media4.giphy.com/media/20g3XJ3UPdYsdrvK6L/giphy.gif"/></br>
-🌐 My [PORTFOLIO](https://rusianh.github.io/)
-
-![](https://komarev.com/ghpvc/?username=your-github-rusianh&color=blueviolet)
+🌐 My [PORTFOLIO](https://rusianh.github.io/)    ![](https://komarev.com/ghpvc/?username=your-github-rusianh&color=blueviolet)
 
 <!--When I'm not busy with the above I enjoy doing crosswords, taking and editing photos or working on my [@YouTube](https://youtube.com/c/SophieBergerCreates) channel.
 
