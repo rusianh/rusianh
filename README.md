@@ -1,4 +1,4 @@
-# Hello World!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px">
+# Hello World! ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px">
 Hey, I'm Cris Vu a web development engineer [@crisvu](https://www.vietanhvu.com) 
 <!-- and a Computer Science and Master of Management student [@The University of British Columbia](https://www.ubc.ca/). I'm also an engagement director [@nwPlus] (https://www.nwplus.io/), the organizers of Western Canada's largest hackathon, and previously worked as an iOS engineering intern [@Tailored Apps](https://www.tailored-apps.com/) and as an undergraduate researcher at The University of British Columbia. -->
 
