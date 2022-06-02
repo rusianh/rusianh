@@ -22,7 +22,7 @@ In terms of tech I am really interested in Software engineering (both front-end 
 <!-- [![](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://youtube.com/c/SophieBergerCreates)](https://youtube.com/c/vietanhvu.com)
 [![](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/bergermsophie)](https://twitter.com/rusianhh) -->
 
-<!-- ### 👾 Tech things:
+### 👾 Tech things:
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Java-critical?style=flat-square&logo=Java)
 ![](https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift)
@@ -38,7 +38,7 @@ In terms of tech I am really interested in Software engineering (both front-end 
 ![](https://img.shields.io/badge/Tensorflow-orange?style=flat-square&logo=Tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/Numpy-informational?style=flat-square&logo=Numpy&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)
-![](https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white) -->
+![](https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white)
 
 
 
