@@ -28,7 +28,8 @@ In terms of tech I am really interested in Software engineering (both front-end 
 ![](https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift)
 ![](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=Firebase)
 ![](https://img.shields.io/badge/React-black?style=flat-square&logo=React)
-![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+<!-- ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) -->
+![](https://img.shields.io/badge/VueJS-black?style=flat-square&logo=vuedotjs)
 ![](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/C-yellow?style=flat-square&logo=C&logoColor=white)
