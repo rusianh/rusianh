@@ -1,4 +1,5 @@
 # Hello World! 
+<a href="https://app.daily.dev/rusianh"><img src="https://api.daily.dev/devcards/5d78eb939b2b4490b7f1369fe4952f33.png?r=1qb" width="400" alt="Cris Vu's Dev Card"/></a>
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px">  -->
 Hey, I'm Cris Vu a web development engineer [@crisvu](https://www.vietanhvu.com) 
 <!-- and a Computer Science and Master of Management student [@The University of British Columbia](https://www.ubc.ca/). I'm also an engagement director [@nwPlus] (https://www.nwplus.io/), the organizers of Western Canada's largest hackathon, and previously worked as an iOS engineering intern [@Tailored Apps](https://www.tailored-apps.com/) and as an undergraduate researcher at The University of British Columbia. -->
