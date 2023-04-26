@@ -55,4 +55,5 @@ In terms of tech I am really interested in Software engineering (both front-end 
 ###
 
 <img src="https://github.com/rusianh/rusianh/blob/main/rusianh1.svg"/>
-<a href="#"><img src="https://api.daily.dev/devcards/5d78eb939b2b4490b7f1369fe4952f33.png?r=1qb" width="400" alt="Cris Vu's Dev Card"/></a>
+<!-- <a href="#"><img src="https://api.daily.dev/devcards/5d78eb939b2b4490b7f1369fe4952f33.png?r=1qb" width="400" alt="Cris Vu's Dev Card"/></a>
+ -->
