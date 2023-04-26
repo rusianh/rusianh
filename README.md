@@ -50,10 +50,9 @@ In terms of tech I am really interested in Software engineering (both front-end 
 <a href="https://github.com/rusianh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusianh&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
-<a href=""><img src="https://api.daily.dev/devcards/5d78eb939b2b4490b7f1369fe4952f33.png?r=1qb" width="400" alt="Cris Vu's Dev Card"/></a>
-<br>
 </hr>
 
 ###
 
 <img src="https://github.com/rusianh/rusianh/blob/main/rusianh1.svg"/>
+<a href="#"><img src="https://api.daily.dev/devcards/5d78eb939b2b4490b7f1369fe4952f33.png?r=1qb" width="400" alt="Cris Vu's Dev Card"/></a>
