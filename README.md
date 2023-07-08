@@ -41,7 +41,7 @@ In terms of tech I am really interested in Software engineering (both front-end 
 ![](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)
 ![](https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white)
 
-<a href="https://app.daily.dev/rusianh"><img src="https://api.daily.dev/devcards/5d78eb939b2b4490b7f1369fe4952f33.png?r=ljk" width="400" alt="Cris Vu's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/rusianh"><img src="https://api.daily.dev/devcards/5d78eb939b2b4490b7f1369fe4952f33.png?r=ljk" width="400" alt="Cris Vu's Dev Card"/></a>-->
 
 ### Some Numbers: 
 <a href="https://github.com/rusianh">
